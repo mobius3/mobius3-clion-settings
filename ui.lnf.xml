@@ -1,0 +1,14 @@
+<application>
+  <component name="UISettings">
+    <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="FONT_FACE" value="Source Sans Pro Semibold" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_STATUS_BAR" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>

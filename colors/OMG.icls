@@ -1,0 +1,23 @@
+<scheme name="OMG" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-02-03T23:36:54</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-02-05T01:34:21</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.6" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <attributes>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
