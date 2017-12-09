@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1) copy">
   <CMakeCodeStyleSettings>
     <option name="FORCE_COMMANDS_CASE" value="1" />
   </CMakeCodeStyleSettings>
@@ -39,6 +39,7 @@
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
     <option name="INDENT_VISIBILITY_KEYWORDS" value="2" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
+    <option name="FUNCTION_PARAMETERS_ALIGN_MULTILINE" value="false" />
     <option name="FUNCTION_PARAMETERS_ALIGN_MULTILINE_PARS" value="true" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_ALIGN_MULTILINE" value="false" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_COMMA_ON_NEXT_LINE" value="true" />
