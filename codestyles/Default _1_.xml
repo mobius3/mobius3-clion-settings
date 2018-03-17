@@ -85,6 +85,8 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CMake">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
