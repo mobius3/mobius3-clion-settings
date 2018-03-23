@@ -1,5 +1,33 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="2" />
+    <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
+    <option name="INDENT_VISIBILITY_KEYWORDS" value="2" />
+    <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
+    <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
+    <option name="FUNCTION_NON_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
+    <option name="FUNCTION_TOP_AFTER_RETURN_TYPE_WRAP" value="0" />
+    <option name="FUNCTION_PARAMETERS_WRAP" value="5" />
+    <option name="FUNCTION_PARAMETERS_NEW_LINE_AFTER_LPAR" value="true" />
+    <option name="FUNCTION_PARAMETERS_NEW_LINE_BEFORE_RPAR" value="true" />
+    <option name="FUNCTION_CALL_ARGUMENTS_WRAP" value="5" />
+    <option name="FUNCTION_CALL_ARGUMENTS_NEW_LINE_AFTER_LPAR" value="true" />
+    <option name="FUNCTION_CALL_ARGUMENTS_NEW_LINE_BEFORE_RPAR" value="true" />
+    <option name="TEMPLATE_DECLARATION_STRUCT_WRAP" value="1" />
+    <option name="TEMPLATE_DECLARATION_FUNCTION_WRAP" value="1" />
+    <option name="CLASS_CONSTRUCTOR_INIT_LIST_COMMA_ON_NEXT_LINE" value="true" />
+    <option name="CLASS_CONSTRUCTOR_INIT_LIST_NEW_LINE_BEFORE_COLON" value="1" />
+    <option name="SPACE_BEFORE_TEMPLATE_DECLARATION_LT" value="true" />
+    <option name="SPACE_WITHIN_TEMPLATE_DOUBLE_GT" value="false" />
+    <option name="SPACE_WITHIN_EMPTY_BRACES" value="true" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+    <option name="DISCHARGED_SHORT_TERNARY_OPERATOR" value="true" />
+    <option name="ADD_BRIEF_TAG" value="true" />
+    <option name="TAG_PREFIX_OF_LINE_COMMENT" value="AT" />
+  </Objective-C>
   <Objective-C-extensions>
+    <option name="TAG_PREFIX_OF_LINE_COMMENT" value="AT" />
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
@@ -20,8 +48,27 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
+      <pair source="cpp" header="h" fileNamingConvention="LISP_CASE" />
+      <pair source="c" header="h" fileNamingConvention="LISP_CASE" />
     </extensions>
   </Objective-C-extensions>
+  <codeStyleSettings language="CMake">
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="SPACE_WITHIN_EMPTY_ARRAY_INITIALIZER_BRACES" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
