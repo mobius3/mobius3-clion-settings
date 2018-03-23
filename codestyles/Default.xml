@@ -1,7 +1,4 @@
-<code_scheme name="Default" version="173">
-  <CMakeCodeStyleSettings>
-    <option name="FORCE_COMMANDS_CASE" value="1" />
-  </CMakeCodeStyleSettings>
+<code_scheme name="Default">
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -23,17 +20,8 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="cpp" header="h" fileNamingConvention="NONE" />
-      <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="h" />
+      <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <codeStyleSettings language="CMake">
-    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
