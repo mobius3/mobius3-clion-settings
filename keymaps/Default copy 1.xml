@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy 1" parent="Default for XWin">
+  <action id="CheckinProject" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>
